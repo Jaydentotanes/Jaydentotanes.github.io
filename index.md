@@ -10,6 +10,6 @@ Lab 2
 //
 This was another lab I really enjoyed. Not only was it easy like lab one but this was the first real lab in my opinion that we did. Unlike lab 1 lab 2 dealt with multiple inputs and outputs which made it really fun. Just the COUT and CIN showed how simple coding can be. 
 
-Lab 3
+Lab 7
 //
 I had fun with this lab because it showed how coding is used in real world applications. I liked this lab because I drive alot and have to deal with parking. So now whenever I go out and look up when I can park I can now imagine what's behind the websites I use to find out when i'm able to park.
